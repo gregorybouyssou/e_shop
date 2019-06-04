@@ -34,8 +34,7 @@ text-align: right;
  color: white;
  
 }
-/*main*/
-.card{
-    margin-top: 30%;
-   margin-left: 20%;
+section{
+    color: white;
+    font-size: 150%;
 }
