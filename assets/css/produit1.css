@@ -4,6 +4,7 @@ body{
 .container{
  margin: 0;
  padding:0;
+ width: 100%;
 }
 .col-12{
     margin: 0;
@@ -33,8 +34,4 @@ text-align: right;
 .nav>.nav-item>.nav-link{
  color: white;
  
-}
-section{
-    color: white;
-    font-size: 150%;
 }
