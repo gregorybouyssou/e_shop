@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+}
+
 .container-fluid{
     padding-right: 0px;
     padding-left: 0px;
@@ -16,6 +20,25 @@ header{
     background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg)
    
 }
+.col-5{
+    background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg);
+    text-align: center;
+    padding: 2%;
+    
+}
+.col-7{
+    background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg);
+    text-align: center;
+    padding: 2%;
+    
+}
+h1{
+    text-align: center;
+    font-size: 600%
+}
+h3{
+    text-align: center;
+}
 .nav{
     background-color: darkslategray;
     
@@ -30,4 +53,14 @@ text-align: right;
     
 }
 /*main*/
-
+.card{
+    margin-top: 30%;
+    margin-left: 20%;
+    font-size: 150%;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 500%;
+    margin-top: 20%;
+}
