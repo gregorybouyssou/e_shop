@@ -1,8 +1,9 @@
 
-.container{
-    margin: 0;
-    padding:0;
-    width: 100%;
+.container-fluid{
+    padding-right: 0px;
+padding-left: 0px;
+margin-right: 0;
+margin-left: 0;
 }
    
 /*header*/
@@ -16,6 +17,7 @@ header{
     background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg)
    
 }
+
 .nav{
     background-color: darkslategray;
     
@@ -28,5 +30,9 @@ text-align: right;
 .nav>.nav-item>.nav-link{
     color: white;
     
+}
+/*main*/
+.col-lg-12{
+    text-align: center;
 }
 

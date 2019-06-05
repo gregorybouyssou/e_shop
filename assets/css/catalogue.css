@@ -1,30 +1,28 @@
-body{
-    padding: 80px;
-}
-.container{
- margin: 0;
- padding:0;
- width: 100%;
-}
-.col-12{
-    margin: 0;
-    padding:0;
-}
 
+body{
+    background-color: black;
+}
+   
 /*header*/
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0;
+    margin-left: 0;
+}
 h1{
- text-align: center;
+    text-align: center;
 }
 h3{
- text-align: center;
+    text-align: center;
 }
 header{
- background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg)
-
+    background-image:url(/home/dev2/code/e_shop/assets/images/background-carreau.jpg)
+   
 }
 .nav{
- background-color: darkslategray;
- 
+    background-color: darkslategray;
+    
 }
 
 .nav>.nav-item{
@@ -32,9 +30,10 @@ text-align: right;
 }
 
 .nav>.nav-item>.nav-link{
- color: white;
- 
+    color: white;
+    
 }
+
 /*main*/
 .card{
     margin-top: 30%;
